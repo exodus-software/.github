@@ -1,4 +1,4 @@
-![Logo](github-logo.png = 500x800)
+![Logo](github-logo.png)
 
 
 ## 🚀 About Us
