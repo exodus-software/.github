@@ -1,12 +1,9 @@
-## Hi there 👋
+![Logo](github-logo.png)
 
-<!--
 
-**Here are some ideas to get you started:**
+## 🚀 About Us
+We are a company located in São Paulo that wants to provide the best for developers and professionals around the world using AI and unique solutions.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Authors
+
+- [@DaviDemarqui](https://github.com/DaviDemarqui)
