@@ -1,4 +1,4 @@
-![Logo](github-logo.png)
+![Logo](github-logo.png {width=800px height=500px})
 
 
 ## 🚀 About Us
