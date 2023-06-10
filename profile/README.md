@@ -1,4 +1,4 @@
-![Logo](github-logo.png)
+![Logo](../github-logo.png)
 
 
 ## 🚀 About Us
